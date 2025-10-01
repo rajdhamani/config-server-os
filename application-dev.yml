@@ -12,5 +12,5 @@ dbservice:
   cms: oracle-db
 
 service:
-  oracledb: dev profile data comming from externalized config server
+  oracledb: dev profile data comming from externalized config server -2
   

@@ -9,7 +9,7 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka/
 dbservice:
-  cms: oracle-db
+  db: oracle-db
 
 service:
   oracledb: dev profile data comming from externalized config server - 3

@@ -1,6 +1,9 @@
 spring:
   application:
     name: INVENTORY-SERVICE
+server:
+  port: 9093
+    
 
 eureka:
   client:

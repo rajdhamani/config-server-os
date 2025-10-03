@@ -9,3 +9,5 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka/
 
+service:
+  oracledb: oder-service comming from dev env. that host in external config server  

@@ -1,6 +1,6 @@
 spring:
   application:
-    name: inventory-service
+    name:  Inventory-Service
 
 eureka:
   client:

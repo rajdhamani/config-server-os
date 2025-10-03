@@ -8,5 +8,4 @@ eureka:
     fetch-registry: true
     service-url:
       defaultZone: http://localhost:8761/eureka/
- dbservice:
-    db: value fetching dev profile from inventory service sepefic service
+
